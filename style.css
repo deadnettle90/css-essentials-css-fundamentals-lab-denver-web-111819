@@ -31,8 +31,9 @@ figcaption {
   font-size: 9px;
 }
 
-#featured-property p {
+#featured-property > p {
   width: 800px;
+  text-align: center;
 }
 
 #details {
